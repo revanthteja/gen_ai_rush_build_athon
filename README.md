@@ -1,5 +1,4 @@
-# SME_AI_Assistant
-Jovian Generative AI Workshop + Hackathon #GenHack June 2023
+Building an AI Assistant tool for organizations to provide timely and accurate support to employees, acting as a Subject Matter Expert and assisting with project-related queries based on roles and responsibilities.
 
-### To start the application
-streamlit run app.py
+link
+https://virtualteamassistantgenai.streamlit.app/
